@@ -4,7 +4,7 @@ Challenge
 1. Primero el programa solicita un codigo de divisa:
 ![Pasted Graphic 2](https://github.com/bljnk12/Conversor-de-monedas/assets/127884930/19a2c5aa-eeb1-4bea-ba7b-e338664f1592)
 
-2. Despues solicita el codigo de la divisa a la que se desea convrtir:
+2. Despues solicita el codigo de la divisa a la que se desea convertir:
 ![Pasted Graphic 4](https://github.com/bljnk12/Conversor-de-monedas/assets/127884930/4510a0a1-ace0-4b80-9fce-924a7214037e)
 
 3. Al final, la cantidad que desea convertir:
